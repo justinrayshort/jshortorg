@@ -21,7 +21,6 @@
 		to<br />jShort.Org
 	</h1>
 
-
 	<Counter />
 </section>
 
