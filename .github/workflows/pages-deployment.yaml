@@ -17,5 +17,5 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: jshortorg # e.g. 'my-project'
-          directory: '/.svelte-kit/cloudflare' # e.g. 'dist'
+          directory: '.svelte-kit/cloudflare' # e.g. 'dist'
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
