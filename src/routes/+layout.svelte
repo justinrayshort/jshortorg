@@ -1,4 +1,5 @@
 <script>
+	import Footer from './Footer.svelte';
 	import Header from './Header.svelte';
 	import './styles.css';
 </script>
@@ -10,9 +11,7 @@
 		<slot />
 	</main>
 
-	<footer>
-		<p>Thanks for visiting!</p>
-	</footer>
+	<Footer />
 </div>
 
 <style>
@@ -39,15 +38,5 @@
 		justify-content: center;
 		align-items: center;
 		padding: 12px;
-	}
-
-	footer a {
-		font-weight: bold;
-	}
-
-	@media (min-width: 480px) {
-		footer {
-			padding: 12px 0;
-		}
 	}
 </style>

@@ -1,55 +1,13 @@
-<script>
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
-</script>
-
-<svelte:head>
-	<title>Home</title>
-	<meta name="description" content="jShort.Org" />
-</svelte:head>
-
-<section>
-	<h1>
-		<span class="welcome">
-			<picture>
-				<source srcset={welcome} type="image/webp" />
-				<img src={welcome_fallback} alt="Welcome" />
-			</picture>
-		</span>
-
-		to<br />jShort.Org
-	</h1>
-
-	<Counter />
-</section>
-
-<style>
-	section {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 0.6;
-	}
-
-	h1 {
-		width: 100%;
-	}
-
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
-	}
-
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
-	}
-</style>
+<article class="prose">
+	<h1>Garlic bread with cheese: What the science tells us</h1>
+	<p>
+	  For years parents have espoused the health benefits of eating garlic bread with cheese to their
+	  children, with the food earning such an iconic status in our culture that kids will often dress
+	  up as warm, cheesy loaf for Halloween.
+	</p>
+	<p>
+	  But a recent study shows that the celebrated appetizer may be linked to a series of rabies cases
+	  springing up around the country.
+	</p>
+	<!-- ... -->
+  </article>
