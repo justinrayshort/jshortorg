@@ -30,8 +30,6 @@
 					</ul>
 				</div>
 			</div>
-			<!-- Page content here -->
-			Content
 		</div>
 		<div class="drawer-side">
 			<label for="my-drawer-3" aria-label="close sidebar" class="drawer-overlay" />
