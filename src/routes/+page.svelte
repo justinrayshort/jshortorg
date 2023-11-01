@@ -7,12 +7,12 @@
 	<div class="card-body">
 		<h2 class="card-title">New work dropping soon!</h2>
 		<p>
-			Click the button below to send motivation notifications to the developer of this website. <span
+			Click the button below to send motivation notifications to the developer of this website.<br /> <span
 				class="text-3xl">😒🤣</span
 			>
 		</p>
 		<div class="card-actions justify-end">
-			<button class="btn btn-primary"><span class="text-4xl">🧗🏼 </span>Motivate</button>
+			<button class="btn btn-primary mt-4"><span class="text-4xl">🧗🏼 </span>Motivate</button>
 		</div>
 	</div>
 </div>
