@@ -20,6 +20,11 @@
 						>
 					</label>
 				</div>
+				<div class="avatar">
+					<div class="w-16 rounded">
+						<img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+					</div>
+				</div>
 				<div class="flex-1 px-2 mx-2"><a href="/">jShort.org</a></div>
 				<div class="flex-none hidden lg:block">
 					<ul class="menu menu-horizontal">
