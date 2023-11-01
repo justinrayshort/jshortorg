@@ -44,11 +44,15 @@
 						<li><a href="/about">📃About</a></li>
 						<li><a href="/sverdle">💩Shirdle</a></li>
 					</ul>
-					<button data-toggle-theme="synthwave,cyberpunk" data-act-class="ACTIVECLASS">🌚 | 😎</button>
 				</div>
+				<button
+					class="btn btn-ghost"
+					data-toggle-theme="synthwave,cyberpunk"
+					data-act-class="ACTIVECLASS">🌚 | 😎</button
+				>
 			</div>
 		</div>
-		<div class="drawer-side">
+		<div class="drawer-side z-100">
 			<label for="my-drawer-3" aria-label="close sidebar" class="drawer-overlay" />
 			<ul class="menu p-4 w-80 min-h-full bg-base-200">
 				<!-- Sidebar content here -->
@@ -56,7 +60,6 @@
 				<li><a href="/about">📃About</a></li>
 				<li><a href="/sverdle">💩Shirdle</a></li>
 			</ul>
-			<button data-toggle-theme="synthwave,cyberpunk" data-act-class="ACTIVECLASS">🌚 | 😎</button>
 		</div>
 	</div>
 </header>

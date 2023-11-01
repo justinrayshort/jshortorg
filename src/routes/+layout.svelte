@@ -6,12 +6,11 @@
 
 <div class="app">
 	<Header />
-<div class="">
-	<main>
-		<slot />
-	</main>
-</div>
-	
+	<div class="">
+		<main>
+			<slot />
+		</main>
+	</div>
 
 	<Footer />
 </div>

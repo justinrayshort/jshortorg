@@ -27,13 +27,15 @@
 		You can try to figure out which ones are real and which ones are fake<br />
 		But don't take them too seriously, they're just for fun's sake<br />
 		<br />
-		I once won a Nobel Prize for literature, but I gave it back because I didn’t like the color of the medal.<br />
+		I once won a Nobel Prize for literature, but I gave it back because I didn’t like the color of the
+		medal.<br />
 		<br />
 		I have a pet unicorn named Sparkles who can fly and shoot rainbows from his horn.<br />
 		<br />
 		I can speak 27 languages fluently, including Klingon, Elvish, and Dothraki.<br />
 		<br />
-		I am a secret agent who works for a mysterious organization that saves the world from evil villains.<br />
+		I am a secret agent who works for a mysterious organization that saves the world from evil villains.<br
+		/>
 		<br />
 		I have a PhD in astrophysics, but I also moonlight as a rock star.<br />
 		<br />
@@ -41,17 +43,20 @@
 		<br />
 		I have a tattoo of a dragon on my back that comes to life when I’m angry.<br />
 		<br />
-		I am the world’s best chess player,	but I only play online under a pseudonym.<br />
+		I am the world’s best chess player, but I only play online under a pseudonym.<br />
 		<br />
-		I have a twin brother who looks exactly like me, but he	is evil and tries to ruin my life.<br />
+		I have a twin brother who looks exactly like me, but he is evil and tries to ruin my life.<br />
 		<br />
-		I have traveled to every country in the world, except for Antarctica, because it’s too cold.<br />
+		I have traveled to every country in the world, except for Antarctica, because it’s too cold.<br
+		/>
 		<br />
 		I have a collection of rare and exotic plants that can sing and dance.<br />
 		<br />
-		I have a superpower that allows me to read minds, but only when people are thinking about pizza.<br />
+		I have a superpower that allows me to read minds, but only when people are thinking about pizza.<br
+		/>
 		<br />
-		I have a time machine that I use to visit different historical periods and meet famous people.<br />
+		I have a time machine that I use to visit different historical periods and meet famous people.<br
+		/>
 		<br />
 		I have a secret crush on a famous celebrity, but I won’t tell you who it is.<br />
 		<br />
