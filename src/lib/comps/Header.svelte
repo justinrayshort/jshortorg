@@ -20,13 +20,18 @@
 						>
 					</label>
 				</div>
-				<div class="flex-1 px-2 mx-2"><a href="/">jShort.org</a></div>
+				<div class="avatar">
+					<div class="w-16 rounded">
+						<img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+					</div>
+				</div>
+				<div class="flex-1 px-2 mx-2"><a href="/"><span class="text-5xl">👽</span></a></div>
 				<div class="flex-none hidden lg:block">
 					<ul class="menu menu-horizontal">
 						<!-- Navbar menu content here -->
-						<li><a href="/">Home</a></li>
-						<li><a href="/about">About</a></li>
-						<li><a href="/sverdle">Sverdle</a></li>
+						<li><a href="/">🏠Home</a></li>
+						<li><a href="/about">📃About</a></li>
+						<li><a href="/sverdle">💩Shirdle</a></li>
 					</ul>
 				</div>
 			</div>
@@ -35,9 +40,9 @@
 			<label for="my-drawer-3" aria-label="close sidebar" class="drawer-overlay" />
 			<ul class="menu p-4 w-80 min-h-full bg-base-200">
 				<!-- Sidebar content here -->
-				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/sverdle">Sverdle</a></li>
+				<li><a href="/">🏠Home</a></li>
+				<li><a href="/about">📃About</a></li>
+				<li><a href="/sverdle">💩Shirdle</a></li>
 			</ul>
 		</div>
 	</div>
