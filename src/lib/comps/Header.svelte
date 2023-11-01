@@ -56,6 +56,7 @@
 				<li><a href="/about">📃About</a></li>
 				<li><a href="/sverdle">💩Shirdle</a></li>
 			</ul>
+			<button data-toggle-theme="synthwave,cyberpunk" data-act-class="ACTIVECLASS">🌚 | 😎</button>
 		</div>
 	</div>
 </header>
