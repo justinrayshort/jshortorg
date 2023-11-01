@@ -1,3 +1,14 @@
+<script lang="js">
+	import { onMount } from 'svelte';
+	import { themeChange } from 'theme-change';
+
+	// NOTE: the element that is using one of the theme attributes must be in the DOM on mount
+	onMount(() => {
+		themeChange(false);
+		// 👆 false parameter is required for svelte
+	});
+</script>
+
 <header>
 	<div class="drawer">
 		<input id="my-drawer-3" type="checkbox" class="drawer-toggle" />
@@ -33,6 +44,7 @@
 						<li><a href="/about">📃About</a></li>
 						<li><a href="/sverdle">💩Shirdle</a></li>
 					</ul>
+					<button data-toggle-theme="synthwave,cyberpunk" data-act-class="ACTIVECLASS">🌚 | 😎</button>
 				</div>
 			</div>
 		</div>
