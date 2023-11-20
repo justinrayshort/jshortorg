@@ -22,7 +22,7 @@
 			>
 				<li><a href="/">Home 🏠</a></li>
 				<li><a href="/about">About ℹ️</a></li>
-				<li><a href="/tripd">Tripd 🗺️</a></li>
+				<li><a href="/">Tripd 🗺️</a></li>
 			</ul>
 		</div>
 	</div>
