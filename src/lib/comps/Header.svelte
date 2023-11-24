@@ -1,7 +1,8 @@
 <div class="navbar bg-base-100">
 	<div class="navbar-start">
 		<div class="dropdown">
-			<label tabindex="0" class="btn btn-ghost btn-circle">
+			<!-- svelte-ignore a11y-label-has-associated-control -->
+			<label tabindex="-1" class="btn btn-ghost btn-circle">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					class="h-5 w-5"
@@ -17,17 +18,18 @@
 				>
 			</label>
 			<ul
-				tabindex="0"
+				tabindex="-1"
 				class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
 			>
-				<li><a href="/">Home 🏠</a></li>
-				<li><a href="/about">About ℹ️</a></li>
+				<li><a href="/">Home ➿</a></li>
+				<li><a href="/about">About ➰</a></li>
+				<li><a href="/emojid">Emojid 🫡</a></li>
 				<li><a href="/tripd">Tripd 🗺️</a></li>
 			</ul>
 		</div>
 	</div>
 	<div class="navbar-center">
-		<a class="btn btn-ghost text-6xl" href="/">➿</a>
+		<a class="btn btn-ghost rounded-full text-6xl" href="/">➿</a>
 	</div>
 	<div class="navbar-end">
 		<button class="btn btn-ghost btn-circle">
