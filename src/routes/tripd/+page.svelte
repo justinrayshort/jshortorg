@@ -5,7 +5,7 @@
 	<figure>
 		<img
 			class="mt-6"
-			src="https://daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg"
+			src="https://media.jshort.org/OIG.jpg"
 			alt="car!"
 		/>
 	</figure>
