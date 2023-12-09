@@ -25,6 +25,7 @@
 				<li><a href="/about">About ➰</a></li>
 				<li><a href="/emojid">Emojid 🫡</a></li>
 				<li><a href="/tripd">Tripd 🗺️</a></li>
+				<li><a href="/register">Register ⤴️</a></li>
 			</ul>
 		</div>
 	</div>

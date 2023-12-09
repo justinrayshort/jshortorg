@@ -36,6 +36,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"theme-change": "^2.5.0"
+		"@passwordlessdev/passwordless-client": "^1.1.2",
+		"theme-change": "^2.5.0",
+		"ulid": "^2.3.0"
 	}
 }
