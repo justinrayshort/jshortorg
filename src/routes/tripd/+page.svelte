@@ -43,7 +43,7 @@
 					<div class="form-control">
 						<input
 							type="number"
-							step=".01"
+							step=".1"
 							placeholder="MPG"
 							class="input input-bordered mb-3"
 							bind:value={vehicleMpg}
@@ -53,7 +53,7 @@
 					<div class="form-control">
 						<input
 							type="number"
-							step=".01"
+							step="1"
 							placeholder="Trip Distance"
 							class="input input-bordered mb-3"
 							bind:value={tripDist}
