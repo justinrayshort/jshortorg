@@ -12,6 +12,7 @@ export async function POST({ request }) {
     const res = formatter.format(calc)
 	return json(res);
 }
+
 // This handler will respond to PUT, PATCH, DELETE, etc.
 /** @type {import('./$types').RequestHandler} */
 export async function fallback({ request }) {

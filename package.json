@@ -9,7 +9,7 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"pages:dev": "wrangler pages dev --compatibility-date=2023-10-02 --proxy 5173 -- npm run dev",
+		"pages:dev": "wrangler pages dev --r2=BUCKET --compatibility-date=2023-10-02 --proxy 5173 -- bun run dev",
 		"pages:deploy": "npm run build && wrangler pages deploy .svelte-kit/cloudflare"
 	},
 	"devDependencies": {
