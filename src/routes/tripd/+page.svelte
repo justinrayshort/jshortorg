@@ -1,5 +1,5 @@
 <script lang="js">
-	let fuelPrice = '';
+	let fuelPrice = '3.03';
 	let vehicleMpg = '';
 	let tripDist = '';
 	let calcRes = '';
@@ -32,7 +32,8 @@
 				<form class="card-body">
 					<div class="form-control">
 						<input
-							type="text"
+							type="number"
+							step=".01"
 							placeholder="Fuel Price"
 							class="input input-bordered mb-3"
 							bind:value={fuelPrice}
@@ -41,7 +42,8 @@
 					</div>
 					<div class="form-control">
 						<input
-							type="text"
+							type="number"
+							step=".01"
 							placeholder="MPG"
 							class="input input-bordered mb-3"
 							bind:value={vehicleMpg}
@@ -50,7 +52,8 @@
 					</div>
 					<div class="form-control">
 						<input
-							type="text"
+							type="number"
+							step=".01"
 							placeholder="Trip Distance"
 							class="input input-bordered mb-3"
 							bind:value={tripDist}
