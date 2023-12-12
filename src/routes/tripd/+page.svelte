@@ -1,5 +1,4 @@
 <script lang="js">
-	
 	let fuelPrice = '';
 	let vehicleMpg = '';
 	let tripDist = '';
@@ -18,18 +17,17 @@
 	}
 </script>
 
-<div class="flex flex-col self-center w-7/12">
+<div class="flex flex-col self-center">
 	<div class="card glass">
 		<div class="card-body">
-			{#if calcRes}
-				<div class="stats shadow">
-					<div class="stat">
-						<div class="stat-title">Trip Cost</div>
-						<div class="stat-value">${calcRes}</div>
-						<div class="stat-desc">Estimated trip fuel expense.</div>
-					</div>
+			<div class="stats shadow">
+				<div class="stat">
+					<div class="stat-title">Trip Cost</div>
+					<div class="stat-value">${calcRes}</div>
+					<div class="stat-desc">Estimated trip fuel expense.</div>
 				</div>
-			{/if}
+			</div>
+
 			<div class="card-actions justify-end mt-3">
 				<form class="card-body">
 					<div class="form-control">
